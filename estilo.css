@@ -1,0 +1,65 @@
+*{
+    box-sizing: border-box;
+}
+.titulo{
+    color:rgb(255, 0, 0);
+    background-color: rgb(0, 0, 0);
+    text-align: center;
+}
+.corroupa{
+    color:rgb(0, 0, 0);
+}
+
+.card{
+    border: solid rgb(5, 5, 5);
+    margin: 80px 10px;
+    width: 300px;
+    
+
+}
+.card img{
+    height:250px;
+    width: 80%;
+}
+.produtos{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.descricao{
+    color:rgb(247, 242, 242);
+    background-color: rgb(0, 0, 0);
+}
+.feminina{
+    color:rgb(0, 0, 0);
+    background-color: rgb(213, 1, 255);
+    width: 150px;
+    
+}
+.roupasF{
+    color: rgb(255, 255, 255);
+    background-color: blueviolet;
+    text-align: center;
+}
+.eletronicos{
+    color: black;
+    background-color: yellow;
+    text-align: center;
+}
+.eletroprod{
+    color: black;
+    background-color: yellow;
+    width: 150px;
+}
+.sobrenos{
+    color:rgb(255, 255, 255);
+    background-color: rgb(35, 166, 218);
+    
+}
+.sobrenos h1 {
+    text-align: center;
+}
+.sobreagente{
+    color: rgb(255, 255, 255);
+    background-color: rgb(17, 166, 224);
+}
